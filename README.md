@@ -1,5 +1,6 @@
 ![Header](./github-background.jpg)
 
+### About Me:
 - 🔭 I’m currently working on my projects in pinned repositories.
 - 🌱 In my free time, I solve problems on LeetCode and read tech articles.
 - 💬 Ask me anything related to Python, Backend, DBMS 
@@ -18,5 +19,4 @@
 ![Gunicorn](https://img.shields.io/badge/gunicorn-%298729.svg?style=for-the-badge&logo=gunicorn&logoColor=white)
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)
 ![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)
